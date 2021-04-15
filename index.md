@@ -6,7 +6,7 @@ Hi! My name is Angelos Kafounis and in this website you can find awsome projects
 
 ### Algorithmic Trading Bot
 
-![]<img src="AmazonMockTrading.png" width="200">
+<img src="AmazonMockTrading.png" width="200">
 
 
 This project is about constructing an automated bot which in real-time takes information about the current state of the stock market, analyzes them using some certain techniques and based on the result of the analysis, it buys or sells its current stocks. 
@@ -15,7 +15,7 @@ For more details see [Trading Bot Source Code](https://akafounis.github.io/Algo-
 
 ### 3D Back Projection
 
-![]<img src="3DBack.jpg" width="200">
+<img src="3DBack.jpg" width="200">
 
 The goal of this project is to generate 3D meshes from depth and color maps which can be captured by depth cameras, like Microsoft Kinect.
 
