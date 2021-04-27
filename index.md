@@ -6,7 +6,7 @@ My name is [**Angelos Kafounis**](https://www.linkedin.com/in/angeloskafounis/) 
 
 ### Semantic Segmentation
 
-<img src="SS.jpg" width="800">
+<img src="SS_2.jpg" width="800">
 
 
 I developed a deep learning model to be able to classify each pixel of an image to 23 different object classes. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/dl-ss/).
