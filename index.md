@@ -1,8 +1,7 @@
-## Welcome to my Project Page !
+## Welcome to my Portfolio !
 
-Hi! My name is Angelos Kafounis and in this website you can find awsome projects that I have been working on!
+Hi :wave:! My name is **Angelos Kafounis** and in this website you can find awsome projects that I have been working on!
 
-### Projects
 
 ### Semantic Segmentation
 
