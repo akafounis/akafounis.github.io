@@ -7,6 +7,8 @@ Hi! My name is Angelos Kafounis and in this website you can find awsome projects
 ### Semantic Segmentation
 
 <img src="SS.jpg" width="400">
+
+
 Built a deep learning model to be able to classify each pixel of an image to 23 different object classes. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/dl-ss/).
 
 ### Algorithmic Trading Bot
