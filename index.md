@@ -22,7 +22,7 @@ I created a deep learning model to be able to detect the main keypoints of a hum
 
 ### Bundle Adjustment
 
-<img src="BA_2.jpg" width="400">
+<img src="BA_3.jpg" width="400">
 
 
 The projects goal is to show a sample application of Bundle Adjustment in reconstructing 3D scenes, and it involves three major steps of key features finding and matching, geometric estimation, and recovering the 3D structure of the scene using bundle adjustment.
