@@ -9,7 +9,7 @@ Hi! My name is Angelos Kafounis and in this website you can find awsome projects
 <img src="SS.jpg" width="400">
 
 
-Built a deep learning model to be able to classify each pixel of an image to 23 different object classes. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/dl-ss/).
+Developed a deep learning model to be able to classify each pixel of an image to 23 different object classes. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/dl-ss/).
 
 
 ### Facial Keypoints Detection
@@ -17,7 +17,7 @@ Built a deep learning model to be able to classify each pixel of an image to 23 
 <img src="FACE2.jpg" width="400">
 
 
-Built a deep learning model to be able to detect the main keypoints of a human face. Detecting the keypoints on the human face is the key to a lot of computer vision applications, such as Facial Recognition. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/facial-keypoints).
+Created a deep learning model to be able to detect the main keypoints of a human face. Detecting the keypoints on the human face is the key to a lot of computer vision applications, such as Facial Recognition. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/facial-keypoints).
 
 
 ### Algorithmic Trading Bot
