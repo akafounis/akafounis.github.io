@@ -1,4 +1,3 @@
-## Welcome to my Portfolio !
 
 **Hi!** \
 My name is [**Angelos Kafounis**](https://www.linkedin.com/in/angeloskafounis/) and in this website you can find awesome projects that I have been working on!
