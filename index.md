@@ -1,7 +1,7 @@
 ## Welcome to my Portfolio !
 
 **Hi!** \
-My name is **Angelos Kafounis** and in this website you can find awsome projects that I have been working on!
+My name is [**Angelos Kafounis**](https://www.linkedin.com/in/angeloskafounis/) and in this website you can find awsome projects that I have been working on!
 
 
 ### Semantic Segmentation
