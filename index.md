@@ -20,6 +20,16 @@ I developed a deep learning model to be able to classify each pixel of an image 
 I created a deep learning model to be able to detect the main keypoints of a human face. Detecting the keypoints on the human face is the key to a lot of computer vision applications, such as Facial Recognition. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/facial-keypoint).
 
 
+### Bundle Adjustment
+
+<img src="BA_2.jpg" width="400">
+
+
+The projects goal is to show a sample application of Bundle Adjustment in reconstructing 3D scenes, and it involves three major steps of key features finding and matching, geometric estimation, and recovering the 3D structure of the scene using bundle adjustment.
+
+For more details see [Bundle Adjustment](https://akafounis.github.io/bundle-adjustment/).
+
+
 ### Algorithmic Trading Bot
 
 <img src="AmazonMockTrading.png" width="400">
