@@ -47,3 +47,14 @@ The goal of this project is to generate 3D meshes from depth and color maps whic
 For more details see [3d Back Projection Source Code](https://akafounis.github.io/3D-Back-projection/).
 
 
+### Bomberman: Multiplayer Game
+
+[<img src="bombExplosion.jpg" width="800">](https://akafounis.github.io/Bomberman-Multiplayer-Game/)
+
+Multiplayer Online version of a game called "Bomberman". Start the game, choose your username, throw bombs with the purpose of destroying obstacles and killing your opponent. 
+
+For more details see [Bomberman](https://akafounis.github.io/Bomberman-Multiplayer-Game/.
+
+
+
+
