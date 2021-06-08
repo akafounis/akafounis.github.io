@@ -62,7 +62,7 @@ For more details see [3d Back Projection Source Code](https://akafounis.github.i
 
 Multiplayer Online version of a game called "Bomberman". Start the game, choose your username, throw bombs with the purpose of destroying obstacles and killing your opponent. 
 
-For more details see [Bomberman](https://akafounis.github.io/Bomberman-Multiplayer-Game/.
+For more details see [Bomberman](https://akafounis.github.io/Bomberman-Multiplayer-Game/).
 
 
 
