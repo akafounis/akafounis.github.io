@@ -18,6 +18,15 @@ I developed a deep learning model to be able to classify each pixel of an image 
 
 I created a deep learning model to be able to detect the main keypoints of a human face. Detecting the keypoints on the human face is the key to a lot of computer vision applications, such as Facial Recognition. More information about the results and the architecture that was used for the model you can find [here](https://akafounis.github.io/facial-keypoint).
 
+### Normalizing Flows
+
+[<img src="normalizing-flows-main.png" width="800">](https://akafounis.github.io/normalizing-flows/)
+
+
+The projects goal is to implement certain tranformations in order to construct flexible and learnable distributions. We used for this project 2 different datasets and 2 different transformations.
+
+For more details see [Normalizing Flows](https://akafounis.github.io/normalizing-flows/).
+
 
 ### Bundle Adjustment
 
