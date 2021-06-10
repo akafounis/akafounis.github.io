@@ -5,7 +5,7 @@ My name is [**Angelos Kafounis**](https://www.linkedin.com/in/angeloskafounis/) 
 
 ### Sentimental Analysis
 
-[<img src="nlp_cover.png" width="800">](https://akafounis.github.io/nlp-imdb/)
+[<img src="sent-analysis.jpg" width="800">](https://akafounis.github.io/nlp-imdb/)
 
 The goal of this project is to build a deep learning model that is able to classify IMDB Movie reviews as positive or negative. For more information about the model architecture and the results see [Sentimental Analysis](https://akafounis.github.io/nlp-imdb/).
 
