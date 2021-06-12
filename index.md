@@ -26,7 +26,7 @@ I created a deep learning model to be able to detect the main keypoints of a hum
 
 ### Robustness of Machine Learning Models
 
-[<img src="robustness.png" width="800">](https://akafounis.github.io/ml-robustness/)
+[<img src="robustness_cover.png" width="800">](https://akafounis.github.io/ml-robustness/)
 
 The goal of this project is to train a machine learning model in such a way that it is robust. For this purpose, we used adversarial training and randomized smoothing. For more information about the results see [Robustness of Machine Learning Models](https://akafounis.github.io/ml-robustness/).
 
