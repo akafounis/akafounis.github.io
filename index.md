@@ -2,12 +2,27 @@
 **Hi!** \
 My name is [**Angelos Kafounis**](https://www.linkedin.com/in/angeloskafounis/) and in this website you can find awesome projects that I have been working on!
 
+### Rummikub: Multiplayer Game
+
+[<img src="3_multiplayer-tiles.jpg" width="800">](https://github.com/akafounis/Rummikub-Multiplayer-Game)
+
+Multiplayer Online version of a card game called "Rummikub". Start the game, choose your username and the server and play!
+
+For more details see [Bomberman](https://github.com/akafounis/Rummikub-Multiplayer-Game).
 
 ### Sentiment Analysis
 
 [<img src="fakos-sent.jpg" width="800">](https://akafounis.github.io/nlp-imdb/)
 
 The goal of this project is to build a deep learning model that is able to classify IMDB Movie reviews as positive or negative. For more information about the model architecture and the results see [Sentiment Analysis](https://akafounis.github.io/nlp-imdb/).
+
+### Bomberman: Multiplayer Game
+
+[<img src="bombExplosion.jpg" width="800">](https://akafounis.github.io/Bomberman-Multiplayer-Game/)
+
+Multiplayer Online version of a game called "Bomberman". Start the game, choose your username, throw bombs with the purpose of destroying obstacles and killing your opponent. 
+
+For more details see [Bomberman](https://akafounis.github.io/Bomberman-Multiplayer-Game/).
 
 ### Semantic Segmentation
 
@@ -66,15 +81,6 @@ For more details see [Trading Bot Source Code](https://akafounis.github.io/Algo-
 The goal of this project is to generate 3D meshes from depth and color maps which can be captured by depth cameras, like Microsoft Kinect.
 
 For more details see [3d Back Projection Source Code](https://akafounis.github.io/3D-Back-projection/).
-
-
-### Bomberman: Multiplayer Game
-
-[<img src="bombExplosion.jpg" width="800">](https://akafounis.github.io/Bomberman-Multiplayer-Game/)
-
-Multiplayer Online version of a game called "Bomberman". Start the game, choose your username, throw bombs with the purpose of destroying obstacles and killing your opponent. 
-
-For more details see [Bomberman](https://akafounis.github.io/Bomberman-Multiplayer-Game/).
 
 
 
